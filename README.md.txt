@@ -10,6 +10,8 @@ A simple JavaScript project for calculating.
 - Apply discounts
 - Format currency in EUR
 - Handle invalid input data
+- Check function on main
+- Greeatness
 
 ## Technologies
 
